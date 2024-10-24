@@ -2,13 +2,13 @@
 
 I'm a software developer and I am always open for new knowledge.
 
-Where to find me:
+### Where to find me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=red&link=mailto:diksandab@gmail.com)](mailto:diksandab@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/aderny-twc)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 
-## Things I code with
+### Things I code with
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=FastAPI)
