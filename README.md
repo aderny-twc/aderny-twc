@@ -2,11 +2,6 @@
 
 I'm a software developer and I am always open for new knowledge. I’ve got a strong background in building robust and scalable backend systems using Python frameworks like Django and FastAPI. I’m also well-versed in database management and performance optimization.
 
-### Where to find me
-[![GitHub Badge](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/aderny-twc)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]()
-
-
 ### Things I code with
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
